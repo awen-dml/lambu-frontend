@@ -143,7 +143,7 @@ function Checkout({ params }: { params: { id: string } }) {
                 </Button>
               </div>
               <CardBooking title="Bank Name" value="BuildWithAngga Fi" />
-              <CardBooking title="Bank Account" value="Nidejia Listings" />
+              <CardBooking title="Bank Account" value="Lambu Listings" />
               <CardBooking title="Number" value="20193050" />
               <Separator className="bg-border" />
               <div className="flex items-center space-x-2">

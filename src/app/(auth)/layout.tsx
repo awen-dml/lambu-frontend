@@ -7,7 +7,7 @@ import ReduxProvider from "@/providers/redux";
 const inter = Poppins({ weight: ['100', '200', '300', '400', '500', '600', '700', '800', '900'], subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Nidejia',
+  title: 'Lambu',
   description: 'Find Glorious Living And Loving Space',
   icons: {
     icon: '/favicon.svg'

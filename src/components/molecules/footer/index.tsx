@@ -73,12 +73,12 @@ function Footer() {
         <div className='flex items-center justify-between'>
           <Image
             src='/images/logo-white.svg'
-            alt='nidejia'
+            alt='lambu'
             height={36}
             width={133}
           />
           <span className='leading-6 text-white'>  
-            All Rights Reserved Nidejia BuildWithAngga 2024
+            All Rights Reserved Lambu BuildWithAngga 2024
           </span>
         </div>
       </div>

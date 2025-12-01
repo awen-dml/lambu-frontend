@@ -10,14 +10,14 @@ const RAW_RUNTIME_STATE =
   ],\
   "dependencyTreeRoots": [\
     {\
-      "name": "nidejia-prototype",\
+      "name": "lambu-prototype",\
       "reference": "workspace:."\
     }\
   ],\
   "enableTopLevelFallback": true,\
   "ignorePatternData": "(^(?:\\\\.yarn\\\\/sdks(?:\\\\/(?!\\\\.{1,2}(?:\\\\/|$))(?:(?:(?!(?:^|\\\\/)\\\\.{1,2}(?:\\\\/|$)).)*?)|$))$)",\
   "fallbackExclusionList": [\
-    ["nidejia-prototype", ["workspace:."]]\
+    ["lambu-prototype", ["workspace:."]]\
   ],\
   "fallbackPool": [\
   ],\
@@ -4555,11 +4555,11 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
-    ["nidejia-prototype", [\
+    ["lambu-prototype", [\
       ["workspace:.", {\
         "packageLocation": "./",\
         "packageDependencies": [\
-          ["nidejia-prototype", "workspace:."],\
+          ["lambu-prototype", "workspace:."],\
           ["@hookform/resolvers", "virtual:6f9aa3563e6df052a263943b6cbee7c1ede4102a48ce409e8e459cc88be05e9dc5e25a3a33af3a5f6069e7c555fec5297661348790149c99d4d65b041cde3f65#npm:3.3.4"],\
           ["@radix-ui/react-checkbox", "virtual:6f9aa3563e6df052a263943b6cbee7c1ede4102a48ce409e8e459cc88be05e9dc5e25a3a33af3a5f6069e7c555fec5297661348790149c99d4d65b041cde3f65#npm:1.0.4"],\
           ["@radix-ui/react-dropdown-menu", "virtual:6f9aa3563e6df052a263943b6cbee7c1ede4102a48ce409e8e459cc88be05e9dc5e25a3a33af3a5f6069e7c555fec5297661348790149c99d4d65b041cde3f65#npm:2.0.6"],\
